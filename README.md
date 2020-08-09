@@ -23,3 +23,9 @@
 ## 注意事项
 
  如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+ 
+#学号:G20200541010101
+#姓名: wuzz
+#小组:03
+#语言:C
+#作业&总结链接:https://github.com/wuzhaoze/AlgorithmQIUZHAO/tree/master/Week_03
